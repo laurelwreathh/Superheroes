@@ -1,15 +1,15 @@
 <resources>
     <string name="app_name">Superheroes</string>
-    <string name="hero1">Ник — День и Ночь</string>
+    <string name="hero1">Никита Пушок</string>
     <string name="description1">Герой с реактивным ранцем</string>
-    <string name="hero2">Защитник Реальности</string>
+    <string name="hero2">ЧОНКИ КЭТ</string>
     <string name="description2">Понимает абсолютную истину</string>
-    <string name="hero3">Андре Великан</string>
+    <string name="hero3">Малыш Витя</string>
     <string name="description3">Имитирует свет и тьму, чтобы сливаться с окружением</string>
-    <string name="hero4">Бенджамин Храбрый</string>
+    <string name="hero4">Дима Дверной проём</string>
     <string name="description4">Использует силу канарейки, чтобы действовать смело</string>
-    <string name="hero5">Великолепная Мару</string>
+    <string name="hero5">Коля Сталь</string>
     <string name="description5">Легко парит в воздухе, спасая день</string>
-    <string name="hero6">Динамичная Ясмин</string>
+    <string name="hero6">Федя Эквалайзер</string>
     <string name="description6">Может принимать любую форму и заряжать энергией</string>
 </resources>
